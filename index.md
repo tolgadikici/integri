@@ -14,10 +14,6 @@ Set Robotics offers rapid deployment on Set Cloud and gets clients ready to use 
 
 Ready-to-use integration with SAP systems. Enhanced API for Warehouse Management Systems.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tolgadikici/integri/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 [contact support](mailto:tolga.dikici@integri.com.tr) and we’ll help you sort it out.
