@@ -14,6 +14,10 @@ Set Robotics offers rapid deployment on Set Cloud and gets clients ready to use 
 
 Ready-to-use integration with SAP systems. Enhanced API for Warehouse Management Systems.
 
-### Support or Contact
+### Support
 
 [contact support](mailto:tolga.dikici@integri.com.tr) and we’ll help you sort it out.
+
+### Contact
+
+Maslak Mah. Maslak 1453 Sitesi B-1 Blok, Sarıyer/İstanbul
