@@ -1,32 +1,18 @@
-## Welcome to GitHub Pages
+## Integri
 
-You can use the [editor on GitHub](https://github.com/tolgadikici/integri/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're Integri, a dedicated team to solve enterprise problems and overcome challenges relying on experience, expertise, communication and integrity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Apart from others, we are a part of clients to become leaner and faster on SAP products !
 
-### Markdown
+## Set Robotics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Safe Efficient Technologies
 
-```markdown
-Syntax highlighted code block
+We develop autonomous mobile robots(AMRs) that work collaboratively alongside workers to increase productivity and efficiency for e-commerce, manufacturing and warehouse fulfillment. 
 
-# Header 1
-## Header 2
-### Header 3
+Set Robotics offers rapid deployment on Set Cloud and gets clients ready to use autonomous robots just in hours.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ready-to-use integration with SAP systems. Enhanced API for Warehouse Management Systems.
 
 ### Jekyll Themes
 
@@ -34,4 +20,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[contact support](mailto:tolga.dikici@integri.com.tr) and we’ll help you sort it out.
